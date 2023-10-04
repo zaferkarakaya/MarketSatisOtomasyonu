@@ -1,0 +1,2 @@
+# MarketSatisOtomasyonu
+Market satis otomasyonu
