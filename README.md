@@ -1,2 +1,2 @@
 # MarketSatisOtomasyonu
-Market satis otomasyonu
+Database-first ile market satis otomasyonu
